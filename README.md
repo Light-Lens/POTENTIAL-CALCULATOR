@@ -1,2 +1,6 @@
 # POTENTIAL-CALCULATOR
-POTENTIAL-CALCULATOR is an Excel file which will help you calculate potential of districts of a state.
+> WHAT IS POTENTIAL-CALCULATOR?
+  POTENTIAL-CALCULATOR is an Excel file which will help you calculate potential of districts of a state.
+
+> HOW TO DOWNLOAD?
+  CLICK THE 'CODE' DROPDOWN BUTTON AND CLICK 'DOWNLOAD ZIP' BUTTON AND THEN JUST WAIT FOR FEW SECONDS FOR IT TO GET DOWNLOADED
